@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>菜狗の日常 • Posts by &#34;日常&#34; category</title>
+        <link>https://ziyang.moe</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 03 Jan 2022 22:30:59 +0800</pubDate>
+        <lastBuildDate>Mon, 03 Jan 2022 22:30:59 +0800</lastBuildDate>
+        <category>CSAPP</category>
+        <category>lab</category>
+        <category>6.824</category>
+        <category>mapreduce</category>
+        <category>MYDB</category>
+        <category>Java</category>
+        <category>规划</category>
+        <category>提问的智慧</category>
+        <category>杂谈</category>
+        <item>
+            <guid isPermalink="true">https://ziyang.moe/article/plan2022up.html</guid>
+            <title>近半年的一点小规划</title>
+            <link>https://ziyang.moe/article/plan2022up.html</link>
+            <category>规划</category>
+            <pubDate>Mon, 03 Jan 2022 22:30:59 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;元旦假期啥也没干，在车上干晕了两天，很烦。&lt;/p&gt;
+&lt;p&gt;给上半年定点计划吧。&lt;/p&gt;
+&lt;p&gt;短期的，两个小项目：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;notion-hexo，通过 notion api 自动生成 hexo 文档并发布&lt;/li&gt;
+&lt;li&gt;jwts-client，教务处 API 封装&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;长期：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;学习 6.824，完成实验&lt;/li&gt;
+&lt;li&gt;学习《数据密集型应用系统设计》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定点目标，目的只是为了以后，放假时间有点事做，不要像现在这样，琢磨了两天公司的项目。无偿打黑工了属于是。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

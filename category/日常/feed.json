@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "菜狗の日常 • All posts by \"日常\" category",
+    "description": "",
+    "home_page_url": "https://ziyang.moe",
+    "items": [
+        {
+            "id": "https://ziyang.moe/article/plan2022up.html",
+            "url": "https://ziyang.moe/article/plan2022up.html",
+            "title": "近半年的一点小规划",
+            "date_published": "2022-01-03T14:30:59.000Z",
+            "content_html": "<p>元旦假期啥也没干，在车上干晕了两天，很烦。</p>\n<p>给上半年定点计划吧。</p>\n<p>短期的，两个小项目：</p>\n<ol>\n<li>notion-hexo，通过 notion api 自动生成 hexo 文档并发布</li>\n<li>jwts-client，教务处 API 封装</li>\n</ol>\n<p>长期：</p>\n<ol>\n<li>学习 6.824，完成实验</li>\n<li>学习《数据密集型应用系统设计》</li>\n</ol>\n<p>定点目标，目的只是为了以后，放假时间有点事做，不要像现在这样，琢磨了两天公司的项目。无偿打黑工了属于是。</p>\n",
+            "tags": [
+                "规划"
+            ]
+        }
+    ]
+}
